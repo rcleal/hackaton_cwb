@@ -1,0 +1,85 @@
+Governança de TI 
+
+ 
+
+ 
+
+A proposta a seguir busca determinar processos para garantir que a implementação de gestão em nuvem traga benefícios a empresa, tanto em disponibilidade, segurança, escalabilidade e custos e/ou investimentos aplicados a TI, alinhadas com a estratégia da empresa. 
+
+ 
+
+ 
+
+Viabilidade do projeto 
+
+ 
+
+Novos sistemas de gestão estão cada vez mais planejados e voltados para a utilização em nuvem. Existem requisitos como segurança, disponibilidade, integridade, escalabilidade, onde a nuvem se mostra ser o serviço de apoio ideal, de uma forma globalizada entre dispositivos, hardware mobilidade. Podemos destacar alguns pontos: 
+
+ 
+
+Mobilidade: Atende todos os setores da empresa. Desde os níveis operacionais, onde é possível optar por dispositivos moveis, de menor custo, para requisitos mais simples, até a opção de relatórios e ferramentas de apoio a decisão por parte da direção em smartphones, por exemplo. 
+
+ 
+
+Indicadores: Há um exponencial ganho em agilidade e disponibilidade de informativos de gestão. Smartphones conseguem ter uma visão sintética e também analítica de qualquer indicador presente no sistema. Tecnologias tem cada vez mais crescendo a nível de processamento do lado do usuário, pelo browser, ganhando em tempo de entrega da solução. 
+
+ 
+
+Segurança: Servidores com maior escalabilidade em firewall e meios de segurança, bem como replicação de dados e backup, assim como uma possível recuperação de dados. Os investimentos em segurança em nuvem são mais caros do que manter a mesma estrutura oferecida pelos serviços, em loco, e nem sempre sendo possível escalar novas opções quando há necessidade. A restauração de informação pode ser extremamente mais rápida caso haja necessidade, inclusive com conceitos como “Infraestrutura como serviço” (SAAS) 
+
+ 
+
+Atualizações constantes e ágeis: Ganha em menos tempo dos serviços de atualização, poupando paradas ineficientes em equipes, e garantindo uma maior agilidade em possíveis soluções para problemas e bugs causados em atualizações. 
+
+ 
+
+Processos  
+
+ 
+
+1-Levantamentos de setores onde será implementado o software de gestão de levantamento das prioridades e necessidades de implementação; 
+
+-Cada setor deverá organizar suas necessidades de controle, bem como requisitos funcionais e também necessidades gerenciais. 
+
+ 
+
+2-Reunião de alimentos entre os setores e determinar quais serão as primeiras áreas a ser implementado o software de gestão; 
+
+ 
+
+3-Após levantamento e alinhamento, reunir a equipe de infraestrutura e software, para escalar os serviços e requisitos em nuvem; 
+
+-Começo da implementação do software na nuvem. Configuração de acordo com a necessidade de usuários requisitados no levantamento de requisitos. 
+
+ 
+
+4-Explanar etapas da implementação do software, bem como tempo total do projeto e custos de infraestrutura em nuvem. Demonstrar situação a diretoria; 
+
+ 
+
+5-Incio da implementação do software em todos os setores levantados. A escalava deve ser inicialmente pelos usuários funcionais, evoluindo gradativamente a níveis de gerência e diretoria; 
+
+-Registrar todas as etapas em sistema de controle de implementação, bem como a aprovação dos usuários que passaram por essa etapa. 
+
+ 
+
+6-Verificação das ferramentas para gestão (BI, Relatórios). Verificar os requisitos não funcionais necessários para a diretoria; 
+
+ 
+
+7-Estabelecer meios para verificação do processo de implementação. Verificar possíveis melhorias nas etapas de implementação de software e possíveis bugs não verificados nas etapas anteriores (seja de software ou de negócios); 
+
+ 
+
+8-Verificar os requisitos e acessos externos a infraestrutura e sistema, seguindo as métricas de segurança da empresa. 
+
+ 
+
+9-Disponibilizar meios para monitoramentos dos serviços em nuvens, bem como a necessidade de melhoria de requisitos; 
+
+ 
+
+10-Reunião de Encerramento da implementação, apontando os principais pontos e melhorias com a implementação em nuvem.  
+
+ 
